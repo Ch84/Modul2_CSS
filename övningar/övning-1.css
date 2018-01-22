@@ -1,0 +1,46 @@
+h1 {
+
+/* Skapa en CSS-regel som formaterar h1 enligt följande: Verdana, 2.5rem. Centrera rubriken. */
+
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+font-size: 2.5rem;
+-webkit-text-fill-color: red;
+
+}
+
+h2 {
+
+/* Skapa en CSS-regel som formaterar h2 enligt följande: Verdana, 2rem. */
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 2rem;
+-webkit-text-fill-color: blue;
+
+}
+
+h1, h2 {
+
+/* Försök att gruppera ovanstående regler på något sätt. (Skapa en ny regel som sätter teckensnitt på både h1 
+och h2) */
+
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+p {
+
+/* Skapa en CSS-regel som formaterar p enligt följande: Verdana, 0.9rem. */ 
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 0.9rem;
+
+}
+
+body {
+
+/* Ändra sidans bakgrundsfärg (valfri färg). */
+
+    background-color: black;
+
+} 

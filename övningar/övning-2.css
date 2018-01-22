@@ -1,0 +1,40 @@
+h1 {
+
+    font-family: 'Supermercado One', cursive;
+    font-size: 3rem;
+    text-align: center;
+    -webkit-text-fill-color: blue;
+
+}
+
+p {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+    -webkit-text-fill-color: chocolate;
+
+
+}
+
+a:link {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: red;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color:blue;
+    text-decoration: underline;    
+} 
+
+a:visited {
+
+    text-decoration: underline;
+
+}
